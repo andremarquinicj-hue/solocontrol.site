@@ -1,0 +1,19 @@
+SOLOCONTROL — SITE PRONTO PARA GITHUB
+
+ALTERAÇÕES REALIZADAS
+- Vídeo enviado aplicado como Hero da página inicial.
+- Texto do Hero afastado da borda esquerda no desktop e no celular.
+- Notícias e Conteúdo Técnico movidos para logo abaixo do Hero.
+- Galeria removida.
+- Certificados e Registros removidos.
+- Menu e rodapé atualizados sem o item Galeria.
+- Vídeo configurado com autoplay, muted, loop e playsinline.
+
+PUBLICAÇÃO NO GITHUB / VERCEL
+1. Extraia os arquivos.
+2. Envie todo o conteúdo da pasta para a raiz do repositório.
+3. Faça commit e push.
+4. A Vercel fará o novo deploy automaticamente se o repositório estiver conectado.
+
+IMPORTANTE
+O vídeo está em assets/hero.mp4. Não altere o nome sem também atualizar o index.html.
